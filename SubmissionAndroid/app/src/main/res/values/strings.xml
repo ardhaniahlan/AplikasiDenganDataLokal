@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Makanan Daerah</string>
+    <string-array name="data_name">
+        <item>Soto Betawi</item>
+        <item>Sate Maranggi</item>
+        <item>Coto Makasar</item>
+        <item>Empal Gentong</item>
+        <item>Nasi Lawar</item>
+        <item>Pempek</item>
+        <item>Rawon</item>
+        <item>Rendang</item>
+        <item>Mie Aceh</item>
+        <item>Soto Banjar</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Soto Betawi merupakan soto yang khas dari daerah DKI Jakarta. Seperti halnya Soto Madura dan Soto Sulung, soto Betawi juga menggunakan jeroan. Selain jeroan, sering kali organ-organ lain juga disertakan, seperti mata, terpedo, dan juga hati. Daging sapi juga menjadi bahan campuran dalam soto Betawi.</item>
+        <item>Sate maranggi adalah makanan asli Sunda di Indonesia yang biasa ditemukan di daerah Jawa Barat, khususnya Purwakarta. Sate maranggi merupakan makanan khas Sunda. Istilah maranggi sendiri dalam bahasa Sunda merupakan istilah petukangan, yakni "seorang ahli pembuat sarung keris".</item>
+        <item>Coto makassar atau coto mangkasara adalah hidangan tradisional Suku Makassar, Sulawesi Selatan. Makanan ini terbuat dari jeroan sapi yang direbus dalam waktu yang lama. Rebusan jeroan bercampur daging sapi ini kemudian diiris-iris, lalu dibumbui dengan bumbu yang diracik secara khusus.</item>
+        <item>Empal gentong adalah makanan khas masyarakat Cirebon, Jawa Barat. Makanan ini mirip dengan gulai dan dimasak menggunakan kayu bakar di dalam gentong. Daging yang digunakan adalah usus, babat dan daging sapi. Empal gentong berasal dari Kabupaten Cirebon.</item>
+        <item>Lawar adalah masakan berupa campuran sayur-sayuran dan daging cincang yang dibumbui secara merata yang berasal dari Bali. Makanan ini lazim disajikan dalam rumah tangga di Bali atau dijual secara luas di rumah-rumah makan dengan sebutan lawar Bali.</item>
+        <item>Pempek atau empek-empek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam.</item>
+        <item>Rawon adalah masakan Indonesia berasal dari Ponorogo yang berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek. Rawon, Menyebar keluar Ponorogo karena Ponorogo memiliki peran Penting dari masa ke masa, hingga dikenal sebagai masakan khas Jawa Timur, masyarakat Jawa Tengah sebelah timur.</item>
+        <item>Rendang atau randang dalam bahasa Minangkabau adalah Masakan Minangkabau yang berbahan dasar daging yang berasal dari Sumatra Barat, Indonesia. Masakan merupakan olahan daging atau telur yang dimasak dalam suhu rendah dalam waktu lama dengan menggunakan aneka rempah-rempah dan santan.</item>
+        <item>Mi aceh adalah masakan mi pedas khas Aceh di Indonesia. Mie kuning tebal dengan irisan daging sapi, daging kambing atau makanan laut disajikan dalam sup sejenis kari yang gurih dan pedas. Mi aceh biasanya ditaburi dengan bawang goreng dan disajikan bersama emping, potongan bawang merah, mentimun, dan jeruk nipis.</item>
+        <item>Soto Banjar adalah soto khas suku Banjar, Kalimantan Selatan dengan bahan utama [daging ayam]] serta memiliki aroma harumrempah-rempah seperti kayu manis, biji pala, dan cengkih. Adakalanya pembuatan kuah soto Banjar dapat dicampurkan dengan sedikit oli yang membuat warna kuahnya mejadi hitam, dan berbau.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/soto_betawi</item>
+        <item>@drawable/sate_maranggi</item>
+        <item>@drawable/coto_makasar</item>
+        <item>@drawable/empal_gentong</item>
+        <item>@drawable/nasi_lawar</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/rawon</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/mie_aceh</item>
+        <item>@drawable/soto_banjar</item>
+    </integer-array>
+</resources>
